@@ -1,1 +1,11 @@
-tamtam-bot-api
+{
+  "name": "tamtam-bot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "tamtam-bot-api": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
